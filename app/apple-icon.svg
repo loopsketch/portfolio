@@ -1,0 +1,13 @@
+<svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="90" cy="90" r="85" fill="#1a1a1a" stroke="#4f46e5" stroke-width="10"/>
+  
+  <!-- Code brackets -->
+  <path d="M45 68 L20 90 L45 112" stroke="#4f46e5" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M135 68 L160 90 L135 112" stroke="#4f46e5" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Dots for "loops" -->
+  <circle cx="68" cy="90" r="8" fill="#4f46e5"/>
+  <circle cx="90" cy="90" r="8" fill="#4f46e5"/>
+  <circle cx="112" cy="90" r="8" fill="#4f46e5"/>
+</svg>
